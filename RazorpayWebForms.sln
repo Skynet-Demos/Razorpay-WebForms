@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorpayWebForms", "RazorpayWebForms\RazorpayWebForms.csproj", "{C19060FD-DC6E-4B04-9935-F55E4A200A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19060FD-DC6E-4B04-9935-F55E4A200A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19060FD-DC6E-4B04-9935-F55E4A200A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19060FD-DC6E-4B04-9935-F55E4A200A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19060FD-DC6E-4B04-9935-F55E4A200A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DAF3D9-1D88-4F77-BF0B-45899F180420}
+	EndGlobalSection
+EndGlobal
